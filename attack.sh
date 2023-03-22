@@ -1,6 +1,6 @@
 #/bin/bash
 
-file="/home/patrickbateman/IT_Hobby_Stuff/Bash/DDOS_Tool/ip_address.txt"
+file="file/path/here"
 
 target=$(cat "$file")
 
