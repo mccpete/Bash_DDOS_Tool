@@ -2,7 +2,7 @@
 
 echo "|#*#*#*#*#*#*#~SP's DOS and DDOS Tool~#*#*#*#*#*#*#|"
 
-cat /home/patrickbateman/IT_Hobby_Stuff/Bash/DDOS_Tool/logo.txt
+cat logo.txt
 
 truncate -s 0 ip_address.txt
 
